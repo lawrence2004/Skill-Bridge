@@ -1,5 +1,21 @@
-# Skill-Bridge
 
-Skill-Bridge is a web application that connects freelancers with clients looking to hire for specific tasks. It allows clients to post jobs, review bids, and hire freelancers. Freelancers can place bids on jobs that match their skills, and clients can hire them based on their proposals. The platform includes user authentication, job management, bid tracking, and real-time job status updates.
+🛠️ Freelancer Marketplace Backend (Spring Boot)
+This is the backend service for a Freelancer Marketplace application (similar to Fiverr or Upwork), built using Spring Boot. It handles user authentication, job posting, bidding, hiring, reviews, and mock payment processing.
 
-This platform serves both freelancers and clients, streamlining the process of job posting, bidding, and hiring with a user-friendly interface and efficient backend operations.
+📌 Features
+👥 Role-Based Access Control (Freelancer / Client)
+🔐 JWT Authentication using Spring Security
+📋 Job Posting and Management
+💰 Bid Submission and Freelancers Hiring
+⭐ Review and Rating System
+💳 Mock Payment Integration
+🧾 DTOs and Validation for clean API communication
+🗃️ Relational Database with Spring Data JPA
+
+🧱 Tech Stack
+Backend: Spring Boot, Spring Security (JWT), Spring Data JPA
+Database: MySQL / PostgreSQL (or H2 for development)
+Build Tool: Maven
+
+Other: Lombok, ModelMapper, Validation API
+
