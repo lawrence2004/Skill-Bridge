@@ -1,5 +1,5 @@
 
-🛠️ Freelancer Marketplace Backend (Spring Boot)
+🛠️ Skill-Bridge Backend (Spring Boot)
 This is the backend service for a Freelancer Marketplace application (similar to Fiverr or Upwork), built using Spring Boot. It handles user authentication, job posting, bidding, hiring, reviews, and mock payment processing.
 
 📌 Features
